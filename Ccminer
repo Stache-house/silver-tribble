@@ -1,0 +1,176 @@
+&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;6-lwZA��������&#x0;&#x0;&#x0;&#x0;&#x0;@�@����MbP?meminfo|scanlog|summary|threads|&#x0;&#x0;&#x0;�&#x0;�����������������������������������&#x0;&#x0;�������������������&#x0;������%=Wp���&#x0;&#x0;<<<<<<<&#x0;�&#x0;&#x0;&#x0;<<(&#x0;&#x0;<(&#x0;&#x0;<<<<<&#x0;<<<<<<<<<<<<&#x0;<&#x0;<<<<<<&#x0;&#x0;&#x0;        diff-multiplier&#x0;        ;0MMMMMMMNd.lWMMMMMO,     .'cc. .kWMMMM0,      ;KMMMMMk.   ;0MMMMMXkddddd;   .cKMMMMMk.  &#x0;got new work in %.2f ms&#x0;{"method": "mining.submit", "params": ["%s", "%s", "%s", "%s", "%s"], "id":%u}&#x0;JSON invalid data (len %d <> %d)&#x0;Stratum connection timed out&#x0;%s%s%s&#x0;userpass&#x0;[0m&#x0;method&#x0;CPU&#x0;unknown method&#x0;Ignored&#x0;quit&#x0;POOL=%s;ALGO=%s;URL=%s;USER=%s;SOLV=%d;ACC=%d;REJ=%d;STALE=%u;H=%u;JOB=%s;DIFF=%.6f;BEST=%.6f;N2SZ=%d;N2=%s;PING=%u;DISCO=%u;WAIT=%u;UPTIME=%u;LAST=%u|&#x0;blake2s&#x0;graft&#x0;%d&#x0;chdir() failed (errno = %d)&#x0;network diff did not reach resume value %.3f...&#x0;...retry after %d seconds&#x0;%s block %d, %s&#x0;SIGTERM received, exiting&#x0;sha256&#x0;pool-time-limit&#x0;[31m&#x0;Content-Length: %lu&#x0;Stratum extranonce answer id was not correct!&#x0;mining.ping&#x0;driver&#x0;sia&#x0;api-groups&#x0;api-mcast&#x0;Adding %u threads to intensity %u, %u cuda threads&#x0;Total: %s&#x0;%s block %d%s&#x0;doom&#x0;Switch to stratum pool %d: %s&#x0;gpulog&#x0;/&#x0;JSON decode failed(%d): %s&#x0;stratum_recv_line failed&#x0;{"id": 1, "method": "mining.subscribe", "params": ["ccminer_CPU/3.7", "%s"]}&#x0;%s%s-&#x0;polytimos&#x0;config&#x0;bfactor&#x0;pool-shares-limit&#x0;syslog&#x0;syslog-prefix&#x0;diff&#x0;
+Scrypt specific options:
+  -l, --launch-config   gives the launch configuration for each kernel
+                        in a comma separated list, one per device.
+  -L, --lookup-gap      Divides the per-hash memory requirement by this factor
+                        by storing only every N'th value in the scratchpad.
+                        Default is 1.
+      --interactive     comma separated list of flags (0/1) specifying
+                        which of the CUDA device you need to run at inter-
+                        active frame rates (because it drives a display).
+      --texture-cache   comma separated list of flags (0/1/2) specifying
+                        which of the CUDA devices shall use the texture
+                        cache for mining. Kepler devices may profit.
+      --no-autotune     disable auto-tuning of kernel launch parameters&#x0;
+      *** ccminer CPU3.7 for Verushash v2.1 - 2.2  by Monkins1010 based on ccminer***
+&#x0;%d miner thread%s started, using '%s' algorithm.&#x0;Mining timeout of %ds reached, exiting...&#x0;X-Stratum&#x0;hex2bin failed on '%s'&#x0;{"id": 3, "method": "mining.extranonce.subscribe", "params": []}&#x0;Pool asked your algo parameter&#x0;clientkey: %s&#x0;switchpool&#x0;skein&#x0;submit-stale&#x0;nonce %s was already sent %u seconds ago&#x0;JSON invalid target&#x0;Failed to alloc xnonce1&#x0;Stratum notify: invalid Merkle branch&#x0;API setsockopt SO_REUSEADDR failed (ignored): %s&#x0;API bind to port %d failed, trying port %u&#x0;API bind to port %u failed - trying again in 20sec&#x0;API initialisation 3 failed (%s)%s&#x0;ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/&#x0;proxy&#x0;vote&#x0;[32myay!!!&#x0;No CUDA devices found! terminating.&#x0;workio thread dead, exiting.&#x0;{"method":"getwork","params":[],"id":0} 
+&#x0;block %u was already solved&#x0;{"method": "getblocktemplate", "params": [{}], "id":9} 
+&#x0;JSON key '%s' not found&#x0;whirl&#x0;stats&#x0;stratum+tcp://&#x0;X-Reject-Reason&#x0;Stratum set nonce %s with extranonce2 size=%d&#x0;Server requested reconnection to %s&#x0;algo&#x0;throughput&#x0;%12s : %12.1f kH/s, %5d MB, %8u thr.&#x0;API disabled&#x0;fail&#x0;vanilla&#x0;%s&#x0;api-allow&#x0;Unknown algo parameter '%s'&#x0;no data&#x0;, target %.3f&#x0;%s: Heavycoin hash requires block reward vote parameter (see --vote)
+&#x0;hmq17&#x0;message&#x0;Stratum authorize answer id is not correct!&#x0;client.get_algo&#x0;arch&#x0;HTTP/1.1 101 Switching Protocol 
+Upgrade: WebSocket 
+Connection: Upgrade 
+Sec-WebSocket-Accept: %s 
+Sec-WebSocket-Protocol: text 
+
+&#x0;API mcast request ignored - invalid port (%s)&#x0;OS=%s;NVDRIVER=%s;CPUS=%d;CPUTEMP=%d;CPUFREQ=%d|&#x0;c11&#x0;qubit&#x0;launch-config&#x0;accepted: %lu/%lu (%s), %s %s%s&#x0;socks5h://&#x0;pools&#x0;Using config %s&#x0;%s: no URL supplied
+&#x0;s&#x0;{"method": "mining.submit", "params": ["%s", "%s", "%s", "%s", "%s", "%s"], "id":%u}&#x0;Starting on %s&#x0;diamond&#x0;[90m&#x0;%s\.ccminer\ccminer.conf&#x0;Stratum notify: invalid claim parameter&#x0;%c%c%c=&#x0;STATS=%u;HASHLOG=%u;MEM=%lu|&#x0;scrypt-jane&#x0;auto&#x0;hide-diff&#x0;  ,0MMMMMMMMMNxdXMMMMMMMMMMNNWMMMMMMMMMWK: .xWMMMMMWXWMMMNKNMMMMWd.   .kMMMMM0,'oKWMMMMMMMMMMWKc&#x0;    :KMMMMMMMMMMMMMMMMMWWWWMMNd'.  :XMMMMNdkWMMMMWN0oc:::dXMMMMWd.   .kMMMMM0o0MMMMWx.   :xxxxxl.   &#x0;height&#x0;JSON key '%s' is not a string&#x0;Long-polling on %s&#x0;shares-limit&#x0;pass&#x0;%02x&#x0;scanlog&#x0;luffa&#x0;mjollnir&#x0;penta&#x0;x16s&#x0;timeout&#x0;http://&#x0;           .dd'        .;oxOKXXK0kdl,. 'x0000Oc         .oOKXXKOxc:x0000O:  .; okOKXXK0Oxl, .&#x0;workio thread create failed&#x0;network diff too high, waiting...&#x0;%s() CURL init failed&#x0;[36m&#x0;%s%s
+&#x0;\&#x0;You are not authorized, check your login and password.&#x0;Failed to get extranonce2_size&#x0;Starting benchmark mode with %s&#x0;*&#x0;API mcast from %s - %s&#x0;sha256d&#x0;/sys/class/hwmon/hwmon1/device/temp1_input&#x0;id&#x0;%s stratum_send_line failed&#x0;protocol-dump&#x0;retry-pause&#x0;diff-factor&#x0;H/s&#x0;,&#x0;longpoll thread create failed&#x0;network hashrate too high, waiting %s...&#x0;Stratum difficulty set to %g%s&#x0;%s %s block %d&#x0;%s: unsupported non-option argument '%s' (see --help)
+&#x0;max-diff&#x0;%f&#x0;Content-Type: application/json&#x0;> %s&#x0;{"id":%d,"result":"pong","error":null}&#x0;mining.set_extranonce&#x0;stratum+tcp://%s:%d&#x0;plimit&#x0;Benchmark results for GPU #%d - %s:&#x0;skunk&#x0;whirlcoin&#x0;wildkeccak&#x0;api-mcast-addr&#x0;cuda-schedule&#x0;pstate&#x0;led&#x0;version&#x0;
+CryptoNight specific options:
+  -l, --launch-config   gives the launch configuration for each kernel
+                        in a comma separated list, one per device.
+      --bfactor=[0-12]  Run Cryptonight core kernel in smaller pieces,
+                        From 0 (ui freeze) to 12 (smooth), win default is 11
+                        This is a per-device setting like the launch config.&#x0;Now logging to syslog...&#x0;Located at: http://github.com/monkins1010/ccminer 
+&#x0;name&#x0;all&#x0;stratum_subscribe timed out&#x0;Stratum notify: invalid UTXO root parameter&#x0;ccminer_CPU/3.7&#x0;client.get_version&#x0;API mcast join failed (%s)%s&#x0;API mcast send reply (%s) succeeded (%d) (%d)&#x0;bastion&#x0;api-mcast-port&#x0;debug&#x0;resume-temp&#x0;retries&#x0;max-log-rate&#x0;      ..              ..&#x0;Thread %d priority %d (nice %d)&#x0;Binding thread %d to cpu %d (mask %x)&#x0;ends=%08x range=%08x&#x0;SIGINT received, exiting&#x0;equi&#x0;JSON protocol request:
+%s&#x0;gpu&#x0;freq&#x0;GET /&#x0;%c%c%c%c&#x0;ccminer-&#x0;Linux version %48s&#x0;cryptonight&#x0;dmd-gr&#x0;x11evo&#x0;cpu-affinity&#x0;devices&#x0;(booooo)&#x0;reject reason: %s&#x0;      :KMMMMMMMMMMMMNXNWMMMMMMMMMMMMMMMMMXXWMMMMK,      :XMMMMWo    .kMMMMM0' ;ONWMMMMMMMMN0o.   &#x0;Originally based on Christian Buchner and Christian H. project&#x0;start=%08x end=%08x range=%08x&#x0; (%.5f)&#x0;submit_upstream_work stratum_send_line failed&#x0;submit_upstream_work json_rpc_call failed&#x0;JSON invalid data (len %d)&#x0;cryptonight-light&#x0;hshare&#x0;[33m&#x0;Remote config init failed!&#x0;client.get_stats&#x0; - API multicast listener will not be available&#x0;API mcast request OK port %s=%d&#x0;deep&#x0;groestl&#x0;zr5&#x0;stratum time is at least %ds in the future&#x0;cert&#x0;interactive&#x0;keep-clocks&#x0;(yay!!!)&#x0;enabling duplicates check feature&#x0;setsid() failed (errno = %d)&#x0;DEBUG: job_id=%s xnonce2=%s time=%s&#x0;{"method": "getmininginfo", "params": [], "id":8} 
+&#x0;method not getwork&#x0;hex2bin str truncated&#x0;{"id": 1, "method": "mining.subscribe", "params": ["ccminer_CPU/3.7"]}&#x0;stratum extranonce subscribe timed out&#x0;client.reconnect&#x0;API open to the network in read-only mode on port %d&#x0;API: exec command %s(%s)&#x0;/proc/version&#x0;x13&#x0;/sys/devices/system/cpu/cpu0/cpufreq/cpuinfo_cur_freq&#x0;equi_stratum_submit&#x0;224.0.0.75&#x0;maxvote&#x0;max-rate&#x0;code&#x0;Failed to get valid n2size in parse_extranonce (%d)&#x0;params&#x0;client&#x0;API failed (%s)%s&#x0;threads&#x0;blakecoin&#x0;verus&#x0;fresh&#x0;x15&#x0;[33mjob %s, found %08x &#x0;api-mcast-des&#x0;resume-diff&#x0;diff %.3f&#x0;
+Boolberry specific options:
+  -l, --launch-config   gives the launch configuration for each kernel
+                        in a comma separated list, one per device.
+  -k, --scratchpad url  Url used to download the scratchpad cache.&#x0;https://&#x0;socks4://&#x0;Usage: ccminer [OPTIONS]
+Options:
+  -a, --algo=ALGO       specify the hash algorithm to use
+                        allium      Garlic double lyra2
+                        bastion     Hefty bastion
+                        bitcore     Timetravel-10
+                        blake       Blake 256 (SFR)
+                        blake2s     Blake2-S 256 (NEVA)
+                        blakecoin   Fast Blake 256 (8 rounds)
+                        bmw         BMW 256
+                        cryptolight AEON cryptonight (MEM/2)
+                        cryptonight XMR cryptonight v1 (old)
+                        c11/flax    X11 variant
+                        decred      Decred Blake256
+                        deep        Deepcoin
+                        verus       Veruscoin
+                        dmd-gr      Diamond-Groestl
+                        fresh       Freshcoin (shavite 80)
+                        fugue256    Fuguecoin
+                        graft       Cryptonight v8
+                        groestl     Groestlcoin
+                        hmq1725     Doubloons / Espers
+                        jackpot     JHA v8
+                        keccak      Deprecated Keccak-256
+                        keccakc     Keccak-256 (CreativeCoin)
+                        lbry        LBRY Credits (Sha/Ripemd)
+                        luffa       Joincoin
+                        lyra2       CryptoCoin
+                        lyra2v2     VertCoin
+                        lyra2z      ZeroCoin (3rd impl)
+                        myr-gr      Myriad-Groestl
+                        monero      XMR cryptonight (v7)
+                        neoscrypt   FeatherCoin, Phoenix, UFO...
+                        nist5       NIST5 (TalkCoin)
+                        penta       Pentablake hash (5x Blake 512)
+                        phi1612     LUX initial algo, for Seraph
+                        phi2        LUX v2 with lyra2
+                        polytimos   Politimos
+                        quark       Quark
+                        qubit       Qubit
+                        sha256d     SHA256d (bitcoin)
+                        sha256t     SHA256 x3
+                        sia         SIA (Blake2B)
+                        sib         Sibcoin (X11+Streebog)
+                        scrypt      Scrypt
+                        scrypt-jane Scrypt-jane Chacha
+                        skein       Skein SHA2 (Skeincoin)
+                        skein2      Double Skein (Woodcoin)
+                        skunk       Skein Cube Fugue Streebog
+                        sonoa       97 hashes based on X17 ones (Sono)
+                        stellite    Cryptonight v3
+                        s3          S3 (1Coin)
+                        timetravel  Machinecoin permuted x8
+                        tribus      Denarius
+                        vanilla     Blake256-8 (VNL)
+                        veltor      Thorsriddle streebog
+                        whirlcoin   Old Whirlcoin (Whirlpool algo)
+                        whirlpool   Whirlpool algo
+                        x11evo      Permuted x11 (Revolver)
+                        x11         X11 (DarkCoin)
+                        x12         X12 (GalaxyCash)
+                        x13         X13 (MaruCoin)
+                        x14         X14
+                        x15         X15
+                        x16r        X16R (Raven)
+                        x16s        X16S
+                        x17         X17
+                        wildkeccak  Boolberry
+                        zr5         ZR5 (ZiftrCoin)
+  -d, --devices         Comma separated list of CUDA devices to use.
+                        Device IDs start counting from 0! Alternatively takes
+                        string names of your cards like gtx780ti or gt640#2
+                        (matching 2nd gt640 in the PC)
+  -i  --intensity=N[,N] GPU intensity 8.0-25.0 (default: auto) 
+                        Decimals are allowed for fine tuning 
+      --cuda-schedule   Set device threads scheduling mode (default: auto)
+  -f, --diff-factor     Divide difficulty by this factor (default 1.0) 
+  -m, --diff-multiplier Multiply difficulty by this value (default 1.0) 
+  -o, --url=URL         URL of mining server
+  -O, --userpass=U:P    username:password pair for mining server
+  -u, --user=USERNAME   username for mining server
+  -p, --pass=PASSWORD   password for mining server
+      --cert=FILE       certificate for mining server using SSL
+  -x, --proxy=[PROTOCOL://]HOST[:PORT]  connect through a proxy
+  -t, --threads=N       number of miner threads (default: number of nVidia GPUs)
+  -r, --retries=N       number of times to retry if a network call fails
+                          (default: retry indefinitely)
+  -R, --retry-pause=N   time to pause between retries, in seconds (default: 30)
+      --shares-limit    maximum shares [s] to mine before exiting the program.
+      --time-limit      maximum time [s] to mine before exiting the program.
+  -T, --timeout=N       network timeout, in seconds (default: 300)
+  -s, --scantime=N      upper bound on time spent scanning current work when
+                          long polling is unavailable, in seconds (default: 10)
+      --submit-stale    ignore stale jobs checks, may create more rejected shares
+  -n, --ndevs           list cuda devices
+  -N, --statsavg        number of samples used to compute hashrate (default: 30)
+      --no-gbt          disable getblocktemplate support (height check in solo)
+      --no-longpoll     disable X-Long-Polling support
+      --no-stratum      disable X-Stratum support
+      --no-extranonce   disable extranonce subscribe on stratum
+  -q, --quiet           disable per-thread hashmeter output
+      --no-color        disable colored output
+  -D, --debug           enable debug output
+  -P, --protocol-dump   verbose dump of protocol-level activities
+      --cpu-affinity    set process affinity to cpu core(s), mask 0x3 for cores 0 and 1
+      --cpu-priority    set process priority (default: 3) 0 idle, 2 normal to 5 highest
+  -b, --api-bind=port   IP:port for the miner API (default: 127.0.0.1:4068), 0 disabled
+      --api-remote      Allow remote control, like pool switching, imply --api-allow=0/0
+      --api-allow=...   IP/mask of the allowed api client(s), 0/0 for all
+      --max-temp=N      Only mine if gpu temp is less than specified value
+      --max-rate=N[KMG] Only mine if net hashrate is less than specified value
+      --max-diff=N      Only mine if net difficulty is less than specified value
+                        Can be tuned with --resume-diff=N to set a resume value
+      --max-log-rate    Interval to reduce per gpu hashrate logs (default: 3)
+      --mem-clock=3505  Set the gpu memory max clock (346.72+ driver)
+      --gpu-clock=1150  Set the gpu engine max clock (346.72+ driver)
+      --pstate=0[,2]    Set the gpu power state (352.21+ driver)
+      --plimit=100W     Set the gpu power limit (352.21+ driver)
+  -S, --syslog          use system log for output messages
+      --syslog-prefix=... allow to change syslog tool name
+      --hide-diff       hide submitted block and net difficulty (old mode)
+  -B, --background      run the miner in the background
+      --benchmark       run in offline benchmark mode
+      --cputest         debug hashes from cpu algorithms
+  -c, --config=FILE     load a JSON-format configuration file
+  -V, --version         display version information and exit
+  -h, --help            display this help text and exit&#x0;diff %.2f&#x0;block txs: %u, total len: %u&#x0;Stratum connect timeout, failover...&#x0;Switch to pool %d: %s&#x0;pool-name&#x0;pool-scantime&#x0;pool-disabled&#x0;%s%sccminer.conf%s&#x0;reject-reason&#x0;API open in full access mode to %s on port %d&#x0;%c%c==&#x0;H=%u;P=%u;JOB=%u;ID=%d;DIFF=%g;N=0x%x;FROM=0x%x;SCANTO=0x%x;COUNT=0x%x;FOUND=%u;TS=%u|&#x0;GPU=%d;H=%u;KHS=%.2f;DIFF=%g;COUNT=%u;FOUND=%u;ID=%u;TS=%u|&#x0;jackpot&#x0;x11&#x0;x12&#x0;quiet&#x0;Pool switching timed out...&#x0;Pool mining timeout of %ds reached, rotate...&#x0;Switch to inexistant pool %d!&#x0;[01;37m&#x0;HOME&#x0;{"id": 1, "method": "mining.subscribe", "params": []}&#x0;intensity&#x0;API not running (no valid IPs specified)%s&#x0;decred&#x0;heavy&#x0;sha256t&#x0;equihash %s block %u&#x0;no-longpoll&#x0;socks5://&#x0;%07x %s&#x0;getmininginfo not supported&#x0;, diff %.3f&#x0;cryptonight-lite&#x0;JSON protocol response:
+%s
+&#x0;http_proxy&#x0;Pool ping&#x0;%s258EAFA5-E914-47DA-95CA-C5AB0DC85B11&#x0;lbry&#x0;lyra2v2&#x0;veltor&#x0; lWMMMMMMMMNl., OWMMMMMMMMMNkoxkO0OOko:.   'odddddl,;okOOdodddddc.     ,oddddo'  ., ldkO00Okxo : .&#x0;%llu
+&#x0;Pool shares limit of %d reached, rotate...&#x0;[36mfound => %08x[32m %08x&#x0;stale work detected, discarding&#x0;gbt not supported, block height notices disabled&#x0;target&#x0;scantime&#x0;stratum_recv_line failed to parse a newline-terminated string&#x0;://&#x0;vendorid&#x0;|%s|&#x0;summary&#x0;ok&#x0;0x&#x0;nist5&#x0;r&#x0;api-bind&#x0;ndevs&#x0;statsavg&#x0;[31mbooooo&#x0;Non-existant CUDA device '%s' specified in -d option&#x0;sleeptime: %u ms&#x0;bitcoin&#x0;pool-max-diff&#x0;CPU T%d: Verus Hashing&#x0;Accept:&#x0;Empty data received in json_rpc_call.&#x0;all_proxy&#x0;mining.notify&#x0;os&#x0;MESSAGE FROM SERVER: %s&#x0;API open locally in full access mode on port %d&#x0;Accepted&#x0;API mcast setsockopt SO_REUSEADDR failed (%s)%s&#x0;%s|&#x0;bmw&#x0;skein2&#x0;monero&#x0;NAME=%s;VER=%s;API=%s;ALGO=%s;GPUS=%d;KHS=%.2f;SOLV=%d;ACC=%d;REJ=%d;ACCMN=%.3f;DIFF=%.6f;NETKHS=%.0f;POOLS=%u;WAIT=%u;UPTIME=%.0f;TS=%u|&#x0;api-remote&#x0;no-autotune&#x0;scratchpad&#x0;http://%s&#x0;%s v%s
+%s
+&#x0;     :KMMMMMMMMMMMMMMMWWWMMMMKdllllxNMMMMN0XMMMMWx,     ..xMMMMMK,   cNMMMMWo; 0MMMMMNKkdl:, .&#x0;Binding thread %d to cpu mask %lx&#x0;work time %u/%us nonce %x/%x&#x0;nicehash&#x0;difficulty&#x0;blocks&#x0;outdated job %s, new %s stales=%d&#x0;user&#x0;pool-algo&#x0;pool-max-rate&#x0;GPU #%d: %s&#x0;(unknown reason)&#x0;Unsupported extranonce size of %d (12 maxi)&#x0;0.0.0.0&#x0;bye|&#x0;linux&#x0;lyra2&#x0;gpu-clock&#x0;[32myes!&#x0;(yes!)&#x0;Benchmark: %s&#x0;extranonce size overflow!&#x0;...terminating workio thread&#x0;data&#x0;submitold&#x0;HTTP request failed: %s&#x0;
+&#x0;Stratum session id: %s&#x0;device&#x0;khashes&#x0;API mcast request was no good&#x0;neoscrypt&#x0;quark&#x0;%08x&#x0;background&#x0;no-extranonce&#x0;no-gbt&#x0; solved: %u&#x0;JSON decode of %s failed&#x0;stratum thread create failed&#x0;Pool switch to %d timed out...&#x0;ziftr&#x0;time-limit&#x0;benchmark&#x0;< %s&#x0;Failed to get extranonce1&#x0;curr_freq&#x0;API: connection from %s - %s&#x0;sonoa&#x0;hashlog: %d/%d purged&#x0;/sys/class/hwmon/hwmon0/temp1_input&#x0;FTW&#x0;show-diff&#x0;mem-clock&#x0;          'OWMXl.     ,OWMMMMMMMMMMMWKo:kWMMMMK,       ,0MMMMMMMMWWWMMMMM0,'kWMMMMMMMMMMMWKd' &#x0;get_work failed, retry after %d seconds&#x0;pok: large block ignored, tx len: %u&#x0;Stratum connection interrupted&#x0;flax&#x0;User-Agent: ccminer_CPU/3.7&#x0;http%s&#x0;Stratum subscribe answer id is not correct!&#x0;curr_memf&#x0;power&#x0;%H:%M:%S&#x0;Benchmark algo %s...&#x0;Sec-WebSocket-Key&#x0;ccm-%s-%d-%s&#x0;hwinfo&#x0;keccakc&#x0;lyra2z&#x0;sib&#x0;x14&#x0;ccminer_CPU&#x0;stats: %d/%d records purged&#x0;{"method":"mining.submit","params":["%s","%s","%s","%s","%s"], "id":%u}&#x0;no-color&#x0;job %s target change: %llx (%.1f)&#x0;work from pool %u discarded&#x0;SIGHUP received&#x0;phi1612&#x0;%.2f %s%s&#x0;Empty data received for config&#x0;%04hx:%04hx&#x0;disabled&#x0;API initialisation failed (%s)%s&#x0;API initialisation 2 failed (%s)%s&#x0;help&#x0;hsr&#x0;phi2&#x0;GPU=%d;BUS=%hd;CARD=%s;TEMP=%.1f;POWER=%u;FAN=%hu;RPM=%hu;FREQ=%u;MEMFREQ=%u;GPUF=%u;MEMF=%u;KHS=%.2f;KHW=%.5f;PLIM=%u;ACC=%u;REJ=%u;HWF=%u;I=%.1f;THR=%u|&#x0;unable to alloc share memory&#x0;resume-rate&#x0;Try `ccminer --help' for more information.
+&#x0;  cKWMMMW0;       'dXMMMMWK:     &#x0;Binding process to cpu mask %x&#x0;Mining limit of %d shares reached, exiting...&#x0;submit_upstream_work OOM&#x0;%s detected new block%s&#x0;No other pools to try...&#x0;url&#x0;%s OOM!
+&#x0;X-Long-Polling&#x0;Remote config read failed: %s&#x0;Stratum connection failed: %s&#x0;extranonce subscribe not supported&#x0;CUDA %d.%d %s&#x0;unknown stratum method %s!&#x0; - API will not be available&#x0;pool&#x0;histo&#x0;seturl&#x0;allium&#x0;cryptolight&#x0;fugue256&#x0;scrypt&#x0;bitcore&#x0;api-mcast-code&#x0;texture-cache&#x0;tlimit&#x0;trust-pool&#x0;restart_threads&#x0;duplicate&#x0; :XMMMMMMMXc.    lKMMMMMMMMK;                                                          .&#x0;       ;KMMMMMMMMMW0coNMMMMMKkxxxxxxxxxxxONMMMMWo      .xMMMMM0,    cNMMMMWl    ':oxOKWMMMMMWk.     &#x0;api thread create failed&#x0;%s, %s&#x0;netmhashps&#x0;{"method": "getwork", "params": ["%s"], "id":10} 
+&#x0;%s block %u%s&#x0;lyra2rev2&#x0;X-Mining-Extensions: longpoll noncerange reject-reason&#x0;stratum_recv_line timed out&#x0;{"id": 2, "method": "mining.authorize", "params": ["%s", "%s"]}&#x0;Stratum authentication failed (%s)&#x0;&#x0;127.0.0.1&#x0;API mcast send reply failed (%s) (%d)&#x0;keccak&#x0;s3&#x0;Stratum notify: invalid parameters&#x0;error&#x0;ccminer&#x0;max-temp&#x0;         ,0WMMMWO;, 0MMMMMWXkxdx0NWWx' :XMMMMWo        :NMMMMMNOxxONMMMMMNkOMMMMMKo::ckNMMMMK;   &#x0;thread %d 
